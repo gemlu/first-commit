@@ -113,8 +113,7 @@ body {
 	float: left;
 	margin-right: 40px;
 	width: 550px;
-	/*margin-right: 40px;
-	width: 326px*/
+	
 }
 
 #main-content #home-notice {
@@ -170,7 +169,7 @@ body {
 	position: relative;
 	zoom: 1;
 	margin-bottom: 5px;
-	background-color: #eee;
+	background-color: white;
 }
 
 .panel .panel-head {
@@ -202,7 +201,7 @@ body {
 
 .panel .panel-body {
 	font-size: 14px;
-	background-color: #eee;
+	background-color: white;
 }
 
 .panel .panel-more-link {
